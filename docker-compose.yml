@@ -1,0 +1,9 @@
+version: "3.7"
+
+services:
+
+  # postgresql
+  pg:
+    build: ./pg
+    container_name: pg12
+    hostname: pg12
