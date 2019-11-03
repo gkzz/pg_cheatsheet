@@ -1,4 +1,4 @@
-# PostgreSQL Command Cheatsheet
+# PostgreSQL Cheatsheet
 
 Based on
 - [わかりみSQL - Kauplan Press - BOOTH](https://booth.pm/ja/items/1576397)
