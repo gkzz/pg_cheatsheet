@@ -32,3 +32,18 @@ postgres=#
 
 ```
 
+## Table of Contents
+
+- Technologies Used
+
+
+- FAQ
+
+
+## Technologies Used
+- Ubuntu 19.04 (Disco Dingo)
+- Docker 19.03.4
+  - postgres (PostgreSQL) 12.0 (Debian 12.0-2.pgdg100+1)
+- docker-compose 1.24.1
+
+
