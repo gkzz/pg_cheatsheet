@@ -1,4 +1,4 @@
-insert into stafftable2(id, name, height, gender)
+insert into table2(id, name, height, gender)
 values (001, 'Alice', 110, 'f')
       ,(002, 'Bob', 120, 'm')
       ,(003, 'Charlie', 130, 'm')
