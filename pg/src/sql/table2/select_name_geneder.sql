@@ -1,2 +1,2 @@
 select gender, name
-from members;
+from table2;
