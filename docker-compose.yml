@@ -7,3 +7,5 @@ services:
     build: ./pg
     container_name: pg
     hostname: pg12
+    volumes:
+      - ./pg/src:/usr/local/src

@@ -55,7 +55,6 @@ docker-compose down -v
 if [ "$BUILD_FLAG" -eq 1  ]; then
   echo 'Run "docker-compose up -d --build"'
   docker-compose up -d --build
-  bash sh/curlHttp.sh
 elif [ "$BUILD_FLAG" -eq 0 ]; then
   echo 'Not Run "docker-compose up -d --build"'
 else
